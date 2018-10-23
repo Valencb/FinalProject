@@ -5,7 +5,7 @@ const Footer = () => (
     <footer className="principal">
         <div class="container">
             <div class="row" >
-                <div class="col-lg">
+                <div class="main col-lg">
                  <h4 className="mt-3 d-flex justify-content-center">artLocus<i class="far fa-registered"></i></h4>
                  <p>For filmmakers, by filmmakers</p>
                  <hr/>

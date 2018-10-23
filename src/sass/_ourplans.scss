@@ -10,6 +10,7 @@
     -o-background-size: cover;
     background-size: cover;
     }
+
 .ourplans2{
     background: rgba(207, 203, 187, 0.5);
     border-radius: 1%;
@@ -40,7 +41,7 @@
     margin-left: 50%;
 }
 .fa-li{
-    color: rgb(108, 224, 250);
+    color: $deep;
 }
 .principal{
     color: white;
@@ -48,4 +49,9 @@
 }
 .lista{
     list-style: none;
+    font-style: bold;
+}
+.main{
+    position: relative;
+    left: -8%;
 }
