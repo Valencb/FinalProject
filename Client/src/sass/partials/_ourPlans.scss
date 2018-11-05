@@ -35,11 +35,12 @@
     border: none;
 }
 
-.bntregister{
+.bntplans-columns{
     align-items: center;
     background-color: #00677D;
     color: white;
-    margin-left: 50%;
+    margin-inline-end: 0%;
+
 }
 
 .fa-li{
@@ -53,4 +54,10 @@
 
 .lista{
     list-style: none;
+}
+.bnt-upgrade{
+    background-color: rgb(57, 140, 165);
+    border: none;
+    border-radius: 5%;
+    color: white;
 }
